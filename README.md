@@ -17,6 +17,7 @@ For this project we used Python Libraries(Pandas, Request, Numpy), Web App and D
 ## Project Motivation<a name="motivation"></a>
 
 The project scope is to build a Data Dashboard wed-site with API to show everyday data for COVID-19. The dataset is an open-source API create and provided by [disease.sh - Open Disease API](https://github.com/disease-sh).
+You can find the dashdoard [here](https://co-vid-dash.herokuapp.com/)
 
 ## File Descriptions <a name="files"></a>
 
